@@ -126,8 +126,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 
 ## Art
-- [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
-
+- [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository. (copied from Animation section)
+- [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - The FNF logo recreated as an SVG, so you don't need Adobe Flash to edit it.
+- [FNF Artsyle Study](https://www.reddit.com/r/FridayNightFunkin/comments/lsmev1/friday_night_funkin_art_style_study_small/) - Tips for drawing FNF characters.
+- [FNF Font](https://www.dropbox.com/s/j0khurzg3zdn21a/FridayNightFunkin-Regular.ttf?dl=0) - Font used in many of the menus.
 
 ## Charting
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Create or edit stepfiles for various rhythm games, such as [DDR (Dance Dance Revolution)](https://www.ddrgame.com/), [ITG (In The Groove)](https://en.wikipedia.org/wiki/In_the_Groove_(video_game)), [PIU (Pump It Up)](https://www.piugame.com/piu.xx/), [StepMania](https://www.stepmania.com/) and [osu!](https://osu.ppy.sh/home)
