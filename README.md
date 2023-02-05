@@ -137,7 +137,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 
 
 ## Art
-- [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
+- [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the GitHub repository.
+- [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - FNF Logo recreated as a vector graphic. Useful if you don't have Adobe Flash.
 
 
 ## Charting
